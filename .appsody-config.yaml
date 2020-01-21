@@ -1,0 +1,2 @@
+project-name: res-appsody-nodejs
+stack: kabanero/nodejs-express:0.2
